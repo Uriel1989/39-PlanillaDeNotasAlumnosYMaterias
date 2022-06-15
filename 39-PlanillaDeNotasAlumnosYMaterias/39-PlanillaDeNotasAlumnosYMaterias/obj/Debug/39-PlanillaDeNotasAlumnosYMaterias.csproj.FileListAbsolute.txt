@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\39-PlanillaDeNotasAlumnosYMaterias\39-PlanillaDeNotasAlumnosYMaterias\bin\Debug\39-PlanillaDeNotasAlumnosYMaterias.exe
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\39-PlanillaDeNotasAlumnosYMaterias\39-PlanillaDeNotasAlumnosYMaterias\bin\Debug\39-PlanillaDeNotasAlumnosYMaterias.pdb
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\39-PlanillaDeNotasAlumnosYMaterias\39-PlanillaDeNotasAlumnosYMaterias\obj\Debug\39-PlanillaDeNotasAlumnosYMaterias.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\39-PlanillaDeNotasAlumnosYMaterias\39-PlanillaDeNotasAlumnosYMaterias\obj\Debug\39-PlanillaDeNotasAlumnosYMaterias.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\39-PlanillaDeNotasAlumnosYMaterias\39-PlanillaDeNotasAlumnosYMaterias\obj\Debug\39-PlanillaDeNotasAlumnosYMaterias.exe
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\39-PlanillaDeNotasAlumnosYMaterias\39-PlanillaDeNotasAlumnosYMaterias\obj\Debug\39-PlanillaDeNotasAlumnosYMaterias.pdb
